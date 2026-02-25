@@ -1,0 +1,9 @@
+export { GridBackground } from "./GridBackground";
+export { Header } from "./Header";
+export { HeroSection } from "./HeroSection";
+export { StickyServicesCards } from "./StickyServicesCards";
+export { PortfolioSection } from "./PortfolioSection";
+export { ProcessSection } from "./ProcessSection";
+export { TestimonialsSection } from "./TestimonialsSection";
+export { CTASection } from "./CTASection";
+export { Footer } from "./Footer";
